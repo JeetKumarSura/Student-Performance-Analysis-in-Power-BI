@@ -138,27 +138,6 @@ The Tabular page displays class-wise student grids with integrated sparklines sh
 
 ---
 
-## 🚀 How to Run & Interact with the Project
-
-### Prerequisites
-*   [Microsoft Power BI Desktop](https://powerbi.microsoft.com/desktop/) (installed on Windows).
-*   Microsoft Excel or compatible spreadsheet software.
-
-### Steps to Open the Project
-1.  **Download/Clone the Repository**: Ensure both the `.pbix` and `.xlsx` files are saved in the same directory.
-2.  **Open the Source Dataset**: Review `Student Performance Marks Sheet.xlsx` to inspect or add new student record entries.
-3.  **Launch the Power BI Dashboard**: Double-click `Student Performance Analytics Dashboard.pbix` to open it in Power BI Desktop.
-4.  **Refresh Data Sources**:
-    > [!IMPORTANT]
-    > If the dashboard displays a connection error on start, the local directory paths might differ.
-    > Update the source file reference:
-    > 1. Click **Transform Data** (Home Tab) -> **Data source settings**.
-    > 2. Select the Excel file source and click **Change Source...**
-    > 3. Browse to your local path of `Student Performance Marks Sheet.xlsx` and apply the changes.
-    > 4. Click **Refresh** to reload the dashboard.
-
----
-
 ## 🎓 Recommendations for Academic Improvement
 
 > [!TIP]

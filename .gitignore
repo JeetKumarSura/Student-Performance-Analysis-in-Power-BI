@@ -1,0 +1,6 @@
+# Ignore Excel source data sheets containing sensitive student personal data
+*.xlsx
+
+# Ignore temporary Excel and Power BI files
+~$*.xlsx
+*.tmp

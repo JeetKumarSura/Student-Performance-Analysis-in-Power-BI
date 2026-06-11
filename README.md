@@ -124,6 +124,20 @@ The Power BI dashboard (**`Student Performance Analytics Dashboard.pbix`**) is d
 
 ---
 
+## 🖥️ Dashboard Views
+
+### 🏠 Home Page (Summary View)
+The home page provides an executive summary of academic metrics at a glance. It features top-level KPIs (Total Students, Pass/Fail Counts, Pass Rate), a result class distribution breakdown, a marks distribution area chart, semester-wise performance comparisons, and text cards highlighting major cohort insights.
+
+![Dashboard Home View](assets/dashboard_home.png)
+
+### 📋 Tabular View (Detailed Reports)
+The Tabular page displays class-wise student grids with integrated sparklines showing individual record averages. It contains section-wise result bar charts and detailed distributions to audit marks across sections (A, B, C, D) and identify granular trends.
+
+![Dashboard Tabular View](assets/dashboard_tabular.png)
+
+---
+
 ## 🚀 How to Run & Interact with the Project
 
 ### Prerequisites
